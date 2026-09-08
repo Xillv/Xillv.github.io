@@ -1,3 +1,4 @@
+- *2026.09*: 🎉 Appointed as an **Associate Editor** of [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta).
 - *2026.08*: 🎉 Our work on metacognitive probing for defending customized LLM systems was published in **IEEE TIFS**.
 - *2026.06*: 🚀 **SenticNet 9** was published in **IEEE TCSS**.
 - *2026*: 🧭 Serving as an **Area Chair** for [XAI4Science](https://xai4science.github.io/), a NeurIPS 2026 Workshop on interpretable foundation models for science.

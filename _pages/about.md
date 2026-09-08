@@ -23,7 +23,7 @@ I am currently a **Research Fellow** at the [National University of Singapore](h
 
 My research interests include ***AI4Science***, ***Affective Computing***, ***Large Language Models***, ***Multimodal Interaction***, and ***Human-in-the-loop AI***. My current work explores cognitive and aesthetic causality in multimodal sentiment analysis, socially intelligent AI, and multimodal AI for weather and climate.
 
-I currently serve as an **Associate Editor** for [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board) (IF 9.1, CCF-B, SCI Q1) and an **Early Career Editor** for [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board) (IF 17.4, CAAI-A, SCI Q1). I am also a **Special Session Chair** at [BESC 2026](https://besc-conf.org/2026/special-session-1).
+I currently serve as an **Associate Editor** for [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board) (IF 9.1, CCF-B, SCI Q1) and [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta), and as an **Early Career Editor** for [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board) (IF 17.4, CAAI-A, SCI Q1). I am also a **Special Session Chair** at [BESC 2026](https://besc-conf.org/2026/special-session-1).
 
 For my complete and up-to-date publication list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=UiWugpoAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/234/5434.html).
 
@@ -66,6 +66,7 @@ For my complete and up-to-date publication list, please visit my [Google Scholar
 ## Editorial Service
 
 - **Associate Editor**, [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board).
+- **Associate Editor**, [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta), September 2026–present.
 - **Early Career Editor**, [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board).
 
 ## Conference Service
