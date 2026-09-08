@@ -1,0 +1,86 @@
+The list below is reconciled from [Google Scholar](https://scholar.google.com/citations?user=UiWugpoAAAAJ&hl=en), [DBLP](https://dblp.org/pid/234/5434.html), and [ORCID](https://orcid.org/0000-0001-7229-2741). Published versions are preferred over duplicate preprints.
+
+## 2026
+
+- [Protecting Your Customized LLM Systems From Backdoored Instructions With Metacognitive Probing](https://doi.org/10.1109/TIFS.2026.3714137). Shuai Zhao, Zhongliang Guo, Xinyi Wu, Xiaobao Wu, Yanhao Jia, **Luwei Xiao**, Anh Tuan Luu. **IEEE Transactions on Information Forensics and Security**, 2026.
+- [Profiling Cognitive Interaction and Epistemic Emotions in Generative Artificial Intelligence-Supported Learning: A Dual-Agent Analysis Based on Reflective Journals](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UiWugpoAAAAJ&citation_for_view=UiWugpoAAAAJ:dshw04ExmUIC). Qinglin Zhang, **Luwei Xiao**, Xinyi Wu, G. Chen, Fengkuang Chiang. **International Conference on Artificial Intelligence in Education (AIED)**, 2026.
+- [Caring Without Feeling: Affective Dynamics as the Control Layer of Human-AI Agent Collaboration](https://arxiv.org/abs/2606.18259). Junjie Xu, Xingjiao Wu, Zihao Zhang, Yujia Xu, Yuzhe Yang, Jin Zhu, **Luwei Xiao**, Wen Wu, Liang He. *arXiv preprint*, 2026.
+- [FATE-YOLO: Fourier-Taylor Convolution and Entropy-Gated Dual-Affinity for Brain Tumor Detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UiWugpoAAAAJ&citation_for_view=UiWugpoAAAAJ:pyW8ca7W8N0C). Zhengnan Yin, Y. He, L. Li, Y. Che, **Luwei Xiao**. **ICASSP**, 2026.
+- [SenticNet 9: Generative Commonsense for Emotion AI via Conceptual Primitive Discovery and Time Shift Mechanism](https://doi.org/10.1109/TCSS.2026.3677113). Erik Cambria, Rui Mao, Xulang Zhang, **Luwei Xiao**, Tiesunlong Shen, Avinash Anand. **IEEE Transactions on Computational Social Systems**, 2026.
+- [ClimateFieldQA: Evaluating Vision–Language Models on Tropical Cyclone Hazard Fields with Physics-Aware Visual Abstractions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UiWugpoAAAAJ&citation_for_view=UiWugpoAAAAJ:3s1wT3WcHBgC). **Luwei Xiao**, Gianmarco Mengaldo. **EGU General Assembly**, 2026.
+- [Human-Centered Pathways to Trustworthy AI in Healthcare: A Comparative Analysis of Explainable AI, Human-in-the-Loop, Hybrid AI, and Uncertainty Quantification Techniques](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UiWugpoAAAAJ&citation_for_view=UiWugpoAAAAJ:bFI3QPDXJZMC). A. Kohan, Junjie Xu, **Luwei Xiao**, Xingjiao Wu, A. Kukkar, S. Hussain, M. Roshanzamir, et al. *Manuscript*, 2026.
+- [AOSNet-Sec: Aperture–Orientation–Spectrum Fusion with Statistical Markov Repair for Trustworthy Super-Resolution](https://doi.org/10.1016/j.patcog.2026.113346). Zhengnan Yin, **Luwei Xiao**, Xuan Feng, Yiwei Chen, Xianxun Zhu, Cai Luo, Faten S. Alamri, Rui Mao, Erik Cambria. **Pattern Recognition**, 2026.
+- [A Survey of LLM Reasoning in Healthcare and Medicine: From Individual Modeling to Collaborative Agents](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UiWugpoAAAAJ&citation_for_view=UiWugpoAAAAJ:f2IySw72cVMC). Qika Lin, **Luwei Xiao**, B. Pu, Kaize Shi, Y. Du, Junjie Xu, K. He, Shuai Zhao, Erik Cambria, S. Mishra, et al. **TechRxiv**, 2026.
+- [OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization](https://arxiv.org/abs/2602.10635). Keane Ong, Sabri Boughorbel, **Luwei Xiao**, Chanakya Ekbote, Wei Dai, Ao Qu, Jingyao Wu, Rui Mao, Ehsan Hoque, Erik Cambria, Gianmarco Mengaldo, Paul Pu Liang. **ICML**, 2026.
+- [Affective Flow Language Model for Emotional Support Conversation](https://arxiv.org/abs/2602.08826). Chenghui Zou, Ning Wang, Tiesunlong Shen, **Luwei Xiao**, Chuan Ma, Xiangpeng Li, Rui Mao, Erik Cambria. *arXiv preprint*, 2026.
+- [Towards Affective Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning](https://arxiv.org/abs/2505.17050). Xinyi Wu, Yanhao Jia, Qinglin Zhang, Yiran Qin, **Luwei Xiao**, Shuai Zhao. **IEEE Transactions on Affective Computing**, 2026.
+- [Backdoor Defense for Large Language Models with Weak-to-Strong Knowledge Distillation](https://doi.org/10.1016/j.patcog.2025.113030). Yuwen Li, Xinyi Wu, Zhongliang Guo, **Luwei Xiao**, Yanhao Jia, Shuai Zhao. **Pattern Recognition**, 2026.
+- [Self-Debias: Self-Correcting for Debiasing Large Language Models](https://arxiv.org/abs/2604.08243). Xuan Feng, Shuai Zhao, **Luwei Xiao**, Tianlong Gu, Bo An. **ICML**, 2026.
+- [A Practical Guide to Interpretability Metrics for Chain-of-Thought Reasoning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UiWugpoAAAAJ&citation_for_view=UiWugpoAAAAJ:nb7KW1ujOQ8C). E. Andrews, Keane Ong, **Luwei Xiao**, L. Pesce, J. Wei, Gianmarco Mengaldo. *Manuscript*, 2026.
+
+## 2025
+
+- [Large Language Models Have Chain-of-Affect](https://arxiv.org/abs/2512.12283). Junjie Xu, Xingjiao Wu, **Luwei Xiao**, Yuzhe Yang, Jie Zhou, Zihao Zhang, Luhan Wang, Yi Huang, Nan Wu, Yingbin Zheng, Chao Yan, Cheng Jin, Honglin Li, Liang He. *arXiv preprint*, 2025.
+- [Syntactic Paraphrase-Based Synthetic Data Generation for Backdoor Attacks Against Chinese Language Models](https://doi.org/10.1016/j.inffus.2025.103376). Man Hu, Yatao Yang, Deng Pan, Zhongliang Guo, **Luwei Xiao**, Deyu Lin, Shuai Zhao. **Information Fusion**, 2025.
+- [MATADOR: Multimodal Traffic Accident Prediction Enhanced by Multi-Source Aggregated Emotion Recognition](https://doi.org/10.1016/j.inffus.2025.103335). Sainan Zhang, Rui Mao, Jun Zhang, **Luwei Xiao**, Erik Cambria. **Information Fusion**, 2025.
+- [Affective-ROPTester: Capability and Bias Analysis of LLMs in Predicting Retinopathy of Prematurity](https://arxiv.org/abs/2507.05816). Shuai Zhao, Yulin Zhang, **Luwei Xiao**, Xinyi Wu, Yanhao Jia, Zhongliang Guo, Xiaobao Wu, Cong-Duy Nguyen, Guoming Zhang, Anh Tuan Luu. **IEEE Transactions on Affective Computing**, 2025.
+- [Fine-Grained Sentiment Analysis Through Aesthetic Caption Fusion and Semantic Filtering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UiWugpoAAAAJ&citation_for_view=UiWugpoAAAAJ:RYcK_YlVTxYC). S. Zhou, **Luwei Xiao**, X. Li, J. Bei, P. Chang. **International Workshop on Multimedia Content Generation and Evaluation**, 2025.
+- [From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM](https://arxiv.org/abs/2507.03868). Xinyi Wu, Yanhao Jia, **Luwei Xiao**, Shuai Zhao, Fengkuang Chiang, Erik Cambria. *arXiv preprint*, 2025.
+- [FLIP: Adaptive Comparison Method Selection for Efficient Preference-Based Reinforcement Learning](https://doi.org/10.1109/IJCNN64981.2025.11228808). Ziang Liu, Xingjiao Wu, Hongxin Chen, **Luwei Xiao**, Jing Yang. **IJCNN**, 2025.
+- [Aspect-Based Summarization with Self-Aspect Retrieval Enhanced Generation](https://doi.org/10.1109/IJCNN64981.2025.11228609). Yichao Feng, Shuai Zhao, Yueqiu Li, **Luwei Xiao**, Xiaobao Wu, Anh Tuan Luu. **IJCNN**, 2025.
+- [Exploring Cognitive and Aesthetic Causality for Multimodal Aspect-Based Sentiment Analysis](https://doi.org/10.1109/TAFFC.2025.3565506). **Luwei Xiao**, Rui Mao, Shuai Zhao, Qika Lin, Yanhao Jia, Liang He, Erik Cambria. **IEEE Transactions on Affective Computing**, 2025.
+- [Bidirectional Directed Acyclic Graph Neural Network for Aspect-Level Sentiment Classification](https://doi.org/10.1145/3716501). Junjie Xu, **Luwei Xiao**, Anran Wu, Tianlong Ma, Daoguo Dong, Liang He. **ACM Transactions on Asian and Low-Resource Language Information Processing**, 2025.
+- [Clean-Label Backdoor Attack and Defense: An Examination of Language Model Vulnerability](https://doi.org/10.1016/j.eswa.2024.125856). Shuai Zhao, Xiaoyu Xu, **Luwei Xiao**, Jinming Wen, Anh Tuan Luu. **Expert Systems with Applications**, 2025.
+- [Label-Perception Augmented Causal Analysis of Mental Health over Social Media](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UiWugpoAAAAJ&citation_for_view=UiWugpoAAAAJ:maZDTaKrznsC). Y. Liang, **Luwei Xiao**, Linlin Wang. **Journal of East China Normal University (Natural Science)**, 2025.
+
+## 2024
+
+- [Imaginique Expressions: Tailoring Personalized Short-Text-to-Image Generation Through Aesthetic Assessment and Human Insights](https://doi.org/10.3390/sym16121608). Yitian Wan, **Luwei Xiao**, Xingjiao Wu, Jing Yang, Liang He. **Symmetry**, 2024.
+- [Vanessa: Visual Connotation and Aesthetic Attributes Understanding Network for Multimodal Aspect-Based Sentiment Analysis](https://doi.org/10.18653/v1/2024.findings-emnlp.671). **Luwei Xiao**, Rui Mao, Xulang Zhang, Liang He, Erik Cambria. **Findings of EMNLP**, 2024.
+- [Artistry in Pixels: FVS—A Framework for Evaluating Visual Elegance and Sentiment Resonance in Generated Images](https://doi.org/10.1109/ICME57554.2024.10687711). Weijie Li, **Luwei Xiao**, Xingjiao Wu, Tianlong Ma, Jiabao Zhao, Liang He. **ICME**, 2024.
+- [Cross-Domain Document Layout Analysis Using Document Style Guide](https://doi.org/10.1016/j.eswa.2023.123039). Xingjiao Wu, **Luwei Xiao**, Xiangcheng Du, Yingbin Zheng, Xin Li, Tianlong Ma, Cheng Jin, Liang He. **Expert Systems with Applications**, 2024.
+- [Atlantis: Aesthetic-Oriented Multiple Granularities Fusion Network for Joint Multimodal Aspect-Based Sentiment Analysis](https://doi.org/10.1016/j.inffus.2024.102304). **Luwei Xiao**, Xingjiao Wu, Junjie Xu, Weijie Li, Cheng Jin, Liang He. **Information Fusion**, 2024. **ESI Highly Cited Paper**.
+- [Simple Contrastive Learning in a Self-Supervised Manner for Robust Visual Question Answering](https://doi.org/10.1016/j.cviu.2024.103976). Shuwen Yang, **Luwei Xiao**, Xingjiao Wu, Junjie Xu, Linlin Wang, Liang He. **Computer Vision and Image Understanding**, 2024.
+- [Weak-to-Strong Backdoor Attacks for LLMs with Contrastive Knowledge Distillation](https://arxiv.org/abs/2409.17946). Shuai Zhao, Leilei Gan, Zhongliang Guo, Xiaobao Wu, **Luwei Xiao**, Xiaoyu Xu, Cong-Duy Nguyen, Anh Tuan Luu. *arXiv preprint*, 2024.
+
+## 2023
+
+- [Cross-Modal Fine-Grained Alignment and Fusion Network for Multimodal Aspect-Based Sentiment Analysis](https://doi.org/10.1016/j.ipm.2023.103508). **Luwei Xiao**, Xingjiao Wu, Shuwen Yang, Junjie Xu, Jie Zhou, Liang He. **Information Processing & Management**, 2023. **ESI Highly Cited Paper**.
+- [Progressive Evidence Refinement for Open-Domain Multimodal Retrieval Question Answering](https://arxiv.org/abs/2310.09696). Shuwen Yang, Anran Wu, Xingjiao Wu, **Luwei Xiao**, Tianlong Ma, Cheng Jin, Liang He. *arXiv preprint*, 2023.
+- [Dual-Expert Distillation Network for Few-Shot Segmentation](https://doi.org/10.1109/ICME55011.2023.00129). Junhang Zhang, Zisong Zhuang, **Luwei Xiao**, Xingjiao Wu, Tianlong Ma, Liang He. **ICME**, 2023.
+- [DCQA: Document-Level Chart Question Answering Towards Complex Reasoning and Common-Sense Understanding](https://arxiv.org/abs/2310.18983). Anran Wu, **Luwei Xiao**, Xingjiao Wu, Shuwen Yang, Junjie Xu, Zisong Zhuang, Nian Xie, Cheng Jin, Liang He. *arXiv preprint*, 2023.
+
+## 2022
+
+- [Document Layout Analysis via Positional Encoding](https://doi.org/10.1109/ICIP46576.2022.9897330). Ejian Zhou, Xingjiao Wu, **Luwei Xiao**, Xiangcheng Du, Tianlong Ma, Liang He. **ICIP**, 2022.
+- [PGTNet: Prototype Guided Transfer Network for Few-Shot Anomaly Localization](https://doi.org/10.1109/ICIP46576.2022.9897566). Zisong Zhuang, Junhang Zhang, **Luwei Xiao**, Tianlong Ma, Liang He. **ICIP**, 2022.
+- [A Survey of Human-in-the-Loop for Machine Learning](https://doi.org/10.1016/j.future.2022.05.014). Xingjiao Wu, **Luwei Xiao**, Yixuan Sun, Junhang Zhang, Tianlong Ma, Liang He. **Future Generation Computer Systems**, 2022. **ESI Highly Cited Paper** · **ESI Hot Paper** · [**Editor’s Choice Paper**](https://www.sciencedirect.com/journal/future-generation-computer-systems/about/editors-choice/editor-s-choice-papers).
+- [Depth Completion via a Dual-Fusion Method](https://doi.org/10.1109/ICPR56361.2022.9956653). Shuwen Yang, **Luwei Xiao**, Junhang Zhang, Zhichao Fu, Tianlong Ma, Liang He. **ICPR**, 2022.
+- [Graph Convolution over the Semantic-Syntactic Hybrid Graph Enhanced by Affective Knowledge for Aspect-Level Sentiment Classification](https://doi.org/10.1109/IJCNN55064.2022.9892027). Junjie Xu, Shuwen Yang, **Luwei Xiao**, Zhichao Fu, Xingjiao Wu, Tianlong Ma, Liang He. **IJCNN**, 2022.
+- [Adaptive Multi-Feature Extraction Graph Convolutional Networks for Multimodal Target Sentiment Analysis](https://doi.org/10.1109/ICME52920.2022.9860020). **Luwei Xiao**, Ejian Zhou, Xingjiao Wu, Shuwen Yang, Tianlong Ma, Liang He. **ICME**, 2022.
+- [Bayesian Estimation-Based Sentiment Word Embedding Model for Sentiment Analysis](https://doi.org/10.1049/cit2.12037). Jingyao Tang, Yun Xue, Ziwen Wang, Shaoyang Hu, Tao Gong, Yinong Chen, Haoliang Zhao, **Luwei Xiao**. **CAAI Transactions on Intelligence Technology**, 2022.
+- [Multi-Head Self-Attention Based Gated Graph Convolutional Networks for Aspect-Based Sentiment Classification](https://doi.org/10.1007/s11042-020-10107-0). **Luwei Xiao**, Xiaohui Hu, Yinong Chen, Yun Xue, Bingliang Chen, Donghong Gu, Bixia Tang. **Multimedia Tools and Applications**, 2022.
+- [Multi-Channel Attentive Graph Convolutional Network with Sentiment Fusion for Multimodal Sentiment Analysis](https://doi.org/10.1109/ICASSP43922.2022.9747542). **Luwei Xiao**, Xingjiao Wu, Wen Wu, Jing Yang, Liang He. **ICASSP**, 2022.
+- [Aspect-Level Sentiment Analysis with Local Semantic and Global Syntactic Features Integration](https://doi.org/10.1142/S0218001422500136). Yifan Liu, **Luwei Xiao**, Yue-Cai Huang, Yun Xue, Xiaohui Hu, Haoliang Zhao, Ying Li. **International Journal of Pattern Recognition and Artificial Intelligence**, 2022.
+- [Exploring Fine-Grained Syntactic Information for Aspect-Based Sentiment Classification with Dual Graph Neural Networks](https://doi.org/10.1016/j.neucom.2021.10.091). **Luwei Xiao**, Yun Xue, Hua Wang, Xiaohui Hu, Donghong Gu, Yongsheng Zhu. **Neurocomputing**, 2022.
+
+## 2021
+
+- [Aspect-Based Sentiment Analysis Using Graph Convolutional Networks and Co-Attention Mechanism](https://doi.org/10.1007/978-3-030-92310-5_51). Zhaowei Chen, Yun Xue, **Luwei Xiao**, Jinpeng Chen, Haolan Zhang. **ICONIP**, 2021.
+- [Targeted Aspect-Based Multimodal Sentiment Analysis: An Attention Capsule Extraction and Multi-Head Fusion Network](https://doi.org/10.1109/ACCESS.2021.3126782). Donghong Gu, Jiaqian Wang, Shaohua Cai, Chi Yang, Zhengxin Song, Haoliang Zhao, **Luwei Xiao**, Hua Wang. **IEEE Access**, 2021.
+- [SIntactical Distance Attention Guided Graph Convolutional Network for Aspect-Based Sentiment Analysis](https://doi.org/10.1109/IJCNN52387.2021.9533932). **Luwei Xiao**, Donghong Gu, Yun Xue, Xiaohui Hu, Yongsheng Zhu. **IJCNN**, 2021.
+- [Modeling Inter-Aspect Relationship with Conjunction for Aspect-Based Sentiment Analysis](https://doi.org/10.1007/978-3-030-75765-6_60). Haoliang Zhao, Yun Xue, Donghong Gu, Jianying Chen, **Luwei Xiao**. **PAKDD**, 2021.
+
+## 2020
+
+- [Electroencephalogram Access for Emotion Recognition Based on a Deep Hybrid Network](https://doi.org/10.3389/fnhum.2020.589001). Q. Zhong, Y. Zhu, D. Cai, **Luwei Xiao**, H. Zhang. **Frontiers in Human Neuroscience**, 2020.
+- [Targeted Sentiment Classification Based on Attentional Encoding and Graph Convolutional Networks](https://doi.org/10.3390/app10030957). **Luwei Xiao**, Xiaohui Hu, Yinong Chen, Yun Xue, Donghong Gu, Bingliang Chen, T. Zhang. **Applied Sciences**, 2020.
+
+## 2018
+
+- [Occlusion Face Detection Technology Based on Facial Physiology](https://doi.org/10.1109/CIS2018.2018.00031). Zhuohao Guo, Weixing Zhou, **Luwei Xiao**, Xiaohui Hu, Zehao Zhang, Zhou Hong. **International Conference on Computational Intelligence and Security (CIS)**, 2018.
+
+## Manuscripts and Preprints
+
+- [Cross-Modal Alignment and Human Preference Learning for Fine-Grained Music-Guided Image Generation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UiWugpoAAAAJ&citation_for_view=UiWugpoAAAAJ:vV6vV6tmYwMC). Junjie Xu, Xingjiao Wu, Zihao Zhang, **Luwei Xiao**, Jing Yang, Jie Zhou, Q. Chen, Liang He.
+- [Phoenix: Prioritize the Hierarchical Observation of Auditory Expression for Audio-Based Image Generation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UiWugpoAAAAJ&citation_for_view=UiWugpoAAAAJ:O3NaXMp0MMsC). Junjie Xu, Xingjiao Wu, Zihao Zhang, **Luwei Xiao**, Daoguo Dong, Liang He. *SSRN preprint*.

@@ -1,0 +1,115 @@
+<script src="assets/js/main.min.js"></script>
+
+{% include analytics.html %}
+{% if site.google_scholar_stats_enabled %}
+  {% include fetch_google_scholar_stats.html %}
+{% endif %}
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const headings = Array.from(document.querySelectorAll(".page__content h1"));
+  const publicationsHeading = headings.find(function (heading) {
+    return heading.textContent.trim().replace(/^📚\s*/, "") === "Publications";
+  });
+
+  if (!publicationsHeading) return;
+
+  const venueAliases = {
+    "IEEE Transactions on Information Forensics and Security": "IEEE TIFS",
+    "IEEE Transactions on Computational Social Systems": "IEEE TCSS",
+    "IEEE Transactions on Affective Computing": "IEEE TAFFC",
+    "ACM Transactions on Asian and Low-Resource Language Information Processing": "ACM TALLIP",
+    "International Conference on Artificial Intelligence in Education (AIED)": "AIED",
+    "International Workshop on Multimedia Content Generation and Evaluation": "Workshop",
+    "Future Generation Computer Systems": "FGCS",
+    "Information Processing & Management": "IP&M",
+    "Expert Systems with Applications": "ESWA",
+    "Computer Vision and Image Understanding": "CVIU",
+    "International Journal of Pattern Recognition and Artificial Intelligence": "IJPRAI",
+    "CAAI Transactions on Intelligence Technology": "CAAI TIT",
+    "Multimedia Tools and Applications": "MTAP",
+    "Frontiers in Human Neuroscience": "Frontiers",
+    "EGU General Assembly": "EGU"
+  };
+
+  function isAward(node) {
+    return node.nodeType === Node.ELEMENT_NODE &&
+      /ESI Highly Cited Paper|ESI Hot Paper|Editor’s Choice Paper|Editor's Choice Paper/.test(node.textContent);
+  }
+
+  function makeAward(node) {
+    const text = node.textContent.trim();
+    const award = node.tagName === "A" ? document.createElement("a") : document.createElement("span");
+    if (node.tagName === "A") award.href = node.href;
+    award.textContent = text;
+    award.className = "publication-award";
+    if (/Hot Paper/.test(text)) award.classList.add("publication-award--hot");
+    if (/Editor/.test(text)) award.classList.add("publication-award--editors");
+    return award;
+  }
+
+  function stylePublication(item) {
+    const children = Array.from(item.childNodes);
+    const title = children.find(function (node) {
+      return node.nodeType === Node.ELEMENT_NODE && node.tagName === "A";
+    });
+    if (!title) return;
+
+    const titleIndex = children.indexOf(title);
+    let venue = null;
+    let venueIndex = -1;
+
+    children.forEach(function (node, index) {
+      if (venue || index <= titleIndex || node.nodeType !== Node.ELEMENT_NODE) return;
+      const nextText = node.nextSibling && node.nextSibling.nodeType === Node.TEXT_NODE
+        ? node.nextSibling.textContent : "";
+      const isFormalVenue = node.tagName === "STRONG" && /,\s*20\d{2}\./.test(nextText);
+      const isPreprintVenue = node.tagName === "EM" && /preprint|manuscript/i.test(node.textContent);
+      if (isFormalVenue || isPreprintVenue) {
+        venue = node;
+        venueIndex = index;
+      }
+    });
+
+    const heading = document.createElement("div");
+    heading.className = "publication-heading";
+
+    const venueBadge = document.createElement("span");
+    venueBadge.className = "publication-venue";
+    const venueName = venue ? venue.textContent.trim() : "Preprint";
+    venueBadge.textContent = venueAliases[venueName] || venueName;
+    heading.appendChild(venueBadge);
+
+    const titleClone = title.cloneNode(true);
+    titleClone.classList.add("publication-title");
+    heading.appendChild(titleClone);
+
+    const meta = document.createElement("div");
+    meta.className = "publication-meta";
+    const authorEnd = venueIndex > -1 ? venueIndex : children.length;
+    children.slice(titleIndex + 1, authorEnd).forEach(function (node) {
+      meta.appendChild(node.cloneNode(true));
+    });
+    if (meta.firstChild && meta.firstChild.nodeType === Node.TEXT_NODE) {
+      meta.firstChild.textContent = meta.firstChild.textContent.replace(/^\.\s*/, "");
+    }
+
+    children.slice(venueIndex > -1 ? venueIndex + 1 : titleIndex + 1).forEach(function (node) {
+      if (isAward(node)) meta.appendChild(makeAward(node));
+    });
+
+    item.textContent = "";
+    item.classList.add("publication-entry");
+    item.appendChild(heading);
+    item.appendChild(meta);
+  }
+
+  let section = publicationsHeading.nextElementSibling;
+  while (section && section.tagName !== "H1") {
+    if (section.tagName === "UL") {
+      Array.from(section.children).forEach(stylePublication);
+    }
+    section = section.nextElementSibling;
+  }
+});
+</script>
