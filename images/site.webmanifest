@@ -1,19 +1,21 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Luwei Xiao — Academic Homepage",
+    "short_name": "Luwei Xiao",
     "icons": [
        {
-          "src": "/android-chrome-192x192.png",
+          "src": "/images/android-chrome-192x192.png?v=20260908",
           "sizes": "192x192",
-          "type": "image/png"
+          "type": "image/png",
+          "purpose": "any maskable"
        },
        {
-        "src": "/android-chrome-512x512.png",
+        "src": "/images/android-chrome-512x512.png?v=20260908",
         "sizes": "512x512",
-        "type": "image/png"
+        "type": "image/png",
+        "purpose": "any maskable"
         }
     ],
-    "theme_color": "#FFFFFF",
-    "background_color": "#FFFFFF",
+    "theme_color": "#0B1F3A",
+    "background_color": "#0B1F3A",
     "display": "standalone"
  }
