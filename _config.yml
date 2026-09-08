@@ -41,7 +41,7 @@ author:
     - name         : "East China Normal University"
       short_name   : "ECNU"
       url          : "https://www.ecnu.edu.cn/"
-      logo         : "https://www.ecnu.edu.cn/images/21/03/19/1yzt3nyx1a/logo3.svg"
+      logo         : "/images/ecnu-logo.svg"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UiWugpoAAAAJ&hl=en"
   email            : "luwei.xiao@nus.edu.sg"
