@@ -15,6 +15,7 @@ from urllib.request import Request, urlopen
 
 
 SCHOLAR_ID = os.environ.get("GOOGLE_SCHOLAR_ID", "UiWugpoAAAAJ").strip()
+BADGE_ENDPOINT = os.environ.get("GOOGLE_SCHOLAR_BADGE_ENDPOINT", "").strip()
 PROFILE_URL = (
     "https://scholar.google.com/citations"
     f"?hl=en&user={SCHOLAR_ID}&view_op=list_works&sortby=pubdate"
@@ -144,6 +145,36 @@ def parse_profile(page: str) -> dict:
     }
 
 
+def fetch_badge_profile(endpoint: str) -> dict:
+    """Read the total from a Scholar-aware endpoint when Google blocks CI IPs."""
+    separator = "&" if "?" in endpoint else "?"
+    url = f"{endpoint}{separator}user={SCHOLAR_ID}"
+    request = Request(url, headers={"User-Agent": USER_AGENTS[0]})
+    try:
+        with urlopen(request, timeout=30) as response:
+            payload = json.loads(response.read().decode("utf-8"))
+    except (HTTPError, URLError, TimeoutError, json.JSONDecodeError) as exc:
+        raise RuntimeError(f"Unable to fetch citation badge endpoint: {exc}") from exc
+
+    citation_text = str(payload.get("message", "")).replace(",", "").strip()
+    if not citation_text.isdigit():
+        raise RuntimeError("Citation badge endpoint returned an invalid count")
+
+    return {
+        "scholar_id": SCHOLAR_ID,
+        "name": "Luwei Xiao",
+        "affiliation": "",
+        "citedby": int(citation_text),
+        "citedby5y": None,
+        "hindex": None,
+        "hindex5y": None,
+        "i10index": None,
+        "i10index5y": None,
+        "updated": datetime.now(timezone.utc).isoformat(),
+        "publications": {},
+    }
+
+
 def write_json(path: Path, data: dict) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     temporary_path = path.with_suffix(path.suffix + ".tmp")
@@ -154,7 +185,14 @@ def write_json(path: Path, data: dict) -> None:
 
 
 def main() -> None:
-    profile = parse_profile(fetch_profile())
+    # Google blocks requests from many CI data-center IPs. The scheduled workflow
+    # therefore uses a Scholar-aware endpoint; local runs can still parse the full
+    # public profile directly by leaving GOOGLE_SCHOLAR_BADGE_ENDPOINT unset.
+    profile = (
+        fetch_badge_profile(BADGE_ENDPOINT)
+        if BADGE_ENDPOINT
+        else parse_profile(fetch_profile())
+    )
     results = Path(__file__).resolve().parent / "results"
     write_json(results / "gs_data.json", profile)
     write_json(

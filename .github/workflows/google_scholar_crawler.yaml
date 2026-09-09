@@ -30,6 +30,7 @@ jobs:
       - name: Fetch Google Scholar statistics
         env:
           GOOGLE_SCHOLAR_ID: UiWugpoAAAAJ
+          GOOGLE_SCHOLAR_BADGE_ENDPOINT: https://google-scholar-badge.vercel.app/citations
         run: python3 google_scholar_crawler/main.py
 
       - name: Publish statistics branch
