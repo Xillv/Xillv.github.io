@@ -6,5 +6,6 @@
 - *2026.05*: 🎉 Two papers were accepted to **ICML 2026**.
 - *2026.05*: 🌏 Presented **ClimateFieldQA**, a physics-aware vision–language benchmark for tropical-cyclone hazard fields, at **EGU General Assembly 2026**.
 - *2026.02*: 🎉 One paper was accepted by **Pattern Recognition**.
+- *2026.01*: 🎉 One paper was accepted by **IEEE TAFFC**.
 - *2025.06*: 🎓 Received my Ph.D. from **East China Normal University** and joined the **National University of Singapore** as a Research Fellow.
 - *2022*: 🏆 Our survey [“A Survey of Human-in-the-Loop for Machine Learning”](https://doi.org/10.1016/j.future.2022.05.014) was selected as an **Editor’s Choice Paper** by *Future Generation Computer Systems*.
