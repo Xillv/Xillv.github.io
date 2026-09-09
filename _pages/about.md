@@ -25,9 +25,9 @@ My research interests include ***AI4Science***, ***Affective Computing***, ***La
 
 I currently serve as an **Associate Editor** for [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta) (IF 11.3, CCF-B, SCI Q1) and [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board) (IF 9.1, CCF-B, SCI Q1), and as an **Early Career Editor** for [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board) (IF 17.4, CAAI-A, SCI Q1).
 
-For my complete and up-to-date publication list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=UiWugpoAAAAJ&hl=en){% if site.google_scholar_stats_enabled %} <a href="{{ site.author.googlescholar }}"><img src="https://img.shields.io/endpoint?url={{ gsStatsUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations" style="vertical-align: middle;"></a>{% endif %} or [DBLP](https://dblp.org/pid/234/5434.html).
+For my complete and up-to-date publication list, please visit my Google Scholar profile{% if site.google_scholar_stats_enabled %} <a href="{{ site.author.googlescholar }}"><img src="https://img.shields.io/endpoint?url={{ gsStatsUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations" style="vertical-align: middle;"></a>{% endif %}.
 
-**Opportunities.** We are currently recruiting remote research interns at the undergraduate, master’s, and doctoral levels, in collaboration with researchers at the National University of Singapore (NUS) and Nanyang Technological University (NTU). I am also open to opportunities in academia and industry, as well as potential research collaborations. If you are interested in joining our projects or discussing potential opportunities, please contact me at [luwei@sentic.net](mailto:luwei@sentic.net).
+**Opportunities.** We are currently recruiting remote research interns at the undergraduate, master’s, and doctoral levels, in collaboration with researchers at the National University of Singapore (NUS), Nanyang Technological University (NTU) and East China Normal University  (ECNU). I am also open to opportunities in academia and industry, as well as potential research collaborations. If you are interested in joining our projects or discussing potential opportunities, please contact me at [luwei@sentic.net](mailto:luwei@sentic.net).
 
 # 🔥 News
 
@@ -41,13 +41,12 @@ For my complete and up-to-date publication list, please visit my [Google Scholar
 <span class='anchor' id='-honors-and-awards'></span>
 
 - **Editor’s Choice Paper**, *Future Generation Computer Systems*, for [“A Survey of Human-in-the-Loop for Machine Learning”](https://www.sciencedirect.com/journal/future-generation-computer-systems/about/editors-choice/editor-s-choice-papers).
-- Three papers recognized as **ESI Highly Cited Papers**, including one **ESI Hot Paper**.
-- **Shanghai Outstanding Graduate**.
+- **Shanghai Outstanding Graduate**, Shanghai Municipal Education Commission.
 - **Outstanding Student**, East China Normal University.
 - **Outstanding Graduation Thesis**, East China Normal University.
 - **Huaxin Scholarship**, East China Normal University.
 - **Social Scholarship**, East China Normal University.
-- Excellent Doctoral Student Academic Innovation Project, East China Normal University.
+- **Excellent Doctoral Student Academic Innovation Project**, East China Normal University.
 
 # 🎓 Education & Experience
 <span class='anchor' id='-education-and-experience'></span>
@@ -72,8 +71,8 @@ For my complete and up-to-date publication list, please visit my [Google Scholar
 
 ## Journal Reviewing
 
-- **Reviewer for leading journals**, including *IEEE Transactions on Affective Computing*, *IEEE Transactions on Multimedia*, *IEEE Transactions on Knowledge and Data Engineering*, *Pattern Recognition*, *Information Fusion*, *Information Processing & Management*, *Expert Systems with Applications*, and *Neurocomputing*.
-- My verified reviewing activity is also available on [ORCID](https://orcid.org/0000-0001-7229-2741).
+- **Reviewer for leading journals**, including *IEEE Transactions on Affective Computing*, *IEEE Transactions on Multimedia*, *IEEE Transactions on Knowledge and Data Engineering*, *Pattern Recognition*, *Information Fusion*, *Information Processing & Management*, *Expert Systems with Applications*, and *Knowledge-based Systems*.
+
 
 ## Selected Talks
 
