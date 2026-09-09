@@ -23,17 +23,11 @@ I am currently a **Research Fellow** at the [National University of Singapore](h
 
 My research interests include ***AI4Science***, ***Affective Computing***, ***Large Language Models***, ***Multimodal Interaction***, and ***Human-in-the-loop AI***. My current work explores cognitive and aesthetic causality in multimodal sentiment analysis, socially intelligent AI, and multimodal AI for weather and climate.
 
-**Research Internships.** We are currently recruiting remote research interns at the undergraduate, master’s, and doctoral levels, in collaboration with researchers at Macquarie University, Shanghai University, and Nanyang Technological University (NTU). Candidates interested in multimodal data processing are welcome to [contact me by email](mailto:luwei@sentic.net).
-
 I currently serve as an **Associate Editor** for [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta) (IF 11.3, CCF-B, SCI Q1) and [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board) (IF 9.1, CCF-B, SCI Q1), and as an **Early Career Editor** for [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board) (IF 17.4, CAAI-A, SCI Q1).
 
-For my complete and up-to-date publication list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=UiWugpoAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/234/5434.html).
+For my complete and up-to-date publication list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=UiWugpoAAAAJ&hl=en){% if site.google_scholar_stats_enabled %} <a href="{{ site.author.googlescholar }}"><img src="https://img.shields.io/endpoint?url={{ gsStatsUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations" style="vertical-align: middle;"></a>{% endif %} or [DBLP](https://dblp.org/pid/234/5434.html).
 
-{% if site.google_scholar_stats_enabled %}
-<a href='{{ site.author.googlescholar }}'><img src="https://img.shields.io/endpoint?url={{ gsStatsUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"></a>
-{% endif %}
-
-***I am actively seeking job opportunities in both academia and industry. If you are interested in academic collaboration or would like to discuss potential opportunities, please feel free to email me at [louisshaw008@gmail.com](mailto:louisshaw008@gmail.com).***
+**Opportunities.** We are currently recruiting remote research interns at the undergraduate, master’s, and doctoral levels, in collaboration with researchers at the National University of Singapore (NUS) and Nanyang Technological University (NTU). I am also open to opportunities in academia and industry, as well as potential research collaborations. If you are interested in joining our projects or discussing potential opportunities, please contact me at [luwei@sentic.net](mailto:luwei@sentic.net).
 
 # 🔥 News
 

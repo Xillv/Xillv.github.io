@@ -11,7 +11,7 @@ description              : "Research Fellow @ NUS"
 repository               : "Xillv/Xillv.github.io"
 url                      : "https://xillv.github.io"
 baseurl                  : ""
-google_scholar_stats_enabled : false
+google_scholar_stats_enabled : true
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -26,9 +26,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Luwei Xiao"
   avatar           : "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=UiWugpoAAAAJ&citpid=11"
-  bio              : "Research Fellow @ NUS"
+  bio              :
   location         : "Singapore"
-  employer         : "National University of Singapore"
+  employer         :
   affiliations:
     - name         : "National University of Singapore"
       short_name   : "NUS"
@@ -46,21 +46,21 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=UiWugpoAAAAJ&hl=en"
   email            : "luwei.xiao@nus.edu.sg"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.mathexlab.com/people/"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Xillv"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "luwei-xiao-5867512ab"
-  dblp             : "https://dblp.org/pid/234/5434.html"
+  linkedin         :
+  dblp             :
   orcid            : "https://orcid.org/0000-0001-7229-2741"
   pinterest        :
   soundcloud       :
