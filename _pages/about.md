@@ -19,11 +19,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a **Research Fellow** at the [National University of Singapore](https://www.nus.edu.sg/), jointly supervised by [Prof. Gianmarco Mengaldo](https://cde.nus.edu.sg/me/staff/mengaldo-gianmarco/) and [Prof. Erik Cambria](https://sentic.net/). I received my Ph.D. in Computer Application Technology from [East China Normal University](https://english.ecnu.edu.cn/) in 2025 under the supervision of [Prof. Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp). I am also a member of the [Sentic Team](https://sentic.net/team/), led by [Prof. Erik Cambria](https://sentic.net/).
+I am currently a **Research Fellow** at the [National University of Singapore](https://www.nus.edu.sg/), jointly supervised by [Prof. Gianmarco Mengaldo](https://cde.nus.edu.sg/me/staff/gianmarco-mengaldo/) and [Prof. Erik Cambria](https://dr.ntu.edu.sg/entities/person/Erik-Cambria). I received my Ph.D. in Computer Application Technology from [East China Normal University](https://english.ecnu.edu.cn/) in 2025 under the supervision of [Prof. Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp). I am also a member of the [Sentic Team](https://sentic.net/team/), led by [Prof. Erik Cambria](https://dr.ntu.edu.sg/entities/person/Erik-Cambria), IEEE Fellow.
 
 My research interests include ***AI4Science***, ***Affective Computing***, ***Large Language Models***, ***Multimodal Interaction***, and ***Human-in-the-loop AI***. My current work explores cognitive and aesthetic causality in multimodal sentiment analysis, socially intelligent AI, and multimodal AI for weather and climate.
 
-I currently serve as an **Associate Editor** for [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board) (IF 9.1, CCF-B, SCI Q1) and [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta), and as an **Early Career Editor** for [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board) (IF 17.4, CAAI-A, SCI Q1). I am also a **Special Session Chair** at [BESC 2026](https://besc-conf.org/2026/special-session-1).
+**Research Internships.** We are currently recruiting remote research interns at the undergraduate, master’s, and doctoral levels, in collaboration with researchers at Macquarie University, Shanghai University, and Nanyang Technological University (NTU). Candidates interested in multimodal data processing are welcome to [contact me by email](mailto:luwei@sentic.net).
+
+I currently serve as an **Associate Editor** for [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta) (IF 11.3, CCF-B, SCI Q1) and [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board) (IF 9.1, CCF-B, SCI Q1), and as an **Early Career Editor** for [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board) (IF 17.4, CAAI-A, SCI Q1).
 
 For my complete and up-to-date publication list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=UiWugpoAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/234/5434.html).
 
@@ -56,24 +58,23 @@ For my complete and up-to-date publication list, please visit my [Google Scholar
 # 🎓 Education & Experience
 <span class='anchor' id='-education-and-experience'></span>
 
-- *2025 – present*, **Research Fellow**, National University of Singapore, Singapore.
-- *2024 – 2025*, **Joint Ph.D. Student / Academic Visitor**, Nanyang Technological University, Singapore; supervised by Prof. Erik Cambria and supported by the China Scholarship Council.
-- *2021 – 2025*, **Ph.D. in Computer Application Technology**, East China Normal University, Shanghai, China; supervised by Prof. Liang He.
-- *2018 – 2021*, **M.Eng.**, South China Normal University, Guangzhou, China.
+- *2025.07 – present*, **Research Fellow**, National University of Singapore, Singapore; jointly supervised by [Prof. Gianmarco Mengaldo](https://cde.nus.edu.sg/me/staff/gianmarco-mengaldo/) and [Prof. Erik Cambria](https://dr.ntu.edu.sg/entities/person/Erik-Cambria).
+- *2024.01 – 2025.01*, **Joint Ph.D. Student**, Nanyang Technological University, Singapore; supervised by [Prof. Erik Cambria](https://dr.ntu.edu.sg/entities/person/Erik-Cambria).
+- *2021.09 – 2025.06*, **Ph.D. in Computer Application Technology**, East China Normal University, Shanghai, China; supervised by [Prof. Liang He](https://faculty.ecnu.edu.cn/_s16/hl2/main.psp).
 
 # 🚨 Academic Services
 
 ## Editorial Service
 
+- **Associate Editor**, [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta)
 - **Associate Editor**, [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board).
-- **Associate Editor**, [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta), September 2026–present.
 - **Early Career Editor**, [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board).
 
 ## Conference Service
 
-- **Area Chair**, [XAI4Science: Knowledge Discovery and Trust through Interpretable Foundation Models](https://xai4science.github.io/), NeurIPS 2026 Workshop ([OpenReview Area Chairs](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/XAI4Science/Area_Chairs)).
+- **Area Chair**, [XAI4Science: Knowledge Discovery and Trust through Interpretable Foundation Models](https://xai4science.github.io/), NeurIPS 2026 Workshop.
 - **Special Session Chair**, [“Toward Human-Centered GenAI: Cognitive and Behavioral Intelligence with Foundation Models and Agents”](https://besc-conf.org/2026/special-session-1), BESC 2026.
-- **Reviewer / Program Committee Member:** NeurIPS, ICLR, ICML, CVPR, AAAI, EMNLP, and ACM Multimedia.
+- **Reviewer / Program Committee Member:** NeurIPS, ICLR, ICML, CVPR, AAAI, ACL ARR, and ACM Multimedia.
 
 ## Journal Reviewing
 
