@@ -1,7 +1,10 @@
 - *2026.09*: 🎉 Appointed as an **Associate Editor** of [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta).
+- *2026.08*: 🧭 Serving as an **Area Chair** for [XAI4Science](https://xai4science.github.io/), a NeurIPS 2026 Workshop on interpretable foundation models for science.
 - *2026.08*: 🎉 Our work on metacognitive probing for defending customized LLM systems was published in **IEEE TIFS**.
+- *2026.07*: 🎉 One paper was accepted to **ACM Multimedia 2026**.
 - *2026.06*: 🚀 **SenticNet 9** was published in **IEEE TCSS**.
-- *2026*: 🧭 Serving as an **Area Chair** for [XAI4Science](https://xai4science.github.io/), a NeurIPS 2026 Workshop on interpretable foundation models for science.
-- *2026*: 🌏 Presented **ClimateFieldQA**, a physics-aware vision–language benchmark for tropical-cyclone hazard fields, at **EGU General Assembly 2026**.
-- *2025*: 🎓 Received my Ph.D. from **East China Normal University** and joined the **National University of Singapore** as a Research Fellow.
+- *2026.05*: 🎉 Two papers were accepted to **ICML 2026**.
+- *2026.05*: 🌏 Presented **ClimateFieldQA**, a physics-aware vision–language benchmark for tropical-cyclone hazard fields, at **EGU General Assembly 2026**.
+- *2026.02*: 🎉 One paper was accepted by **Pattern Recognition**.
+- *2025.06*: 🎓 Received my Ph.D. from **East China Normal University** and joined the **National University of Singapore** as a Research Fellow.
 - *2022*: 🏆 Our survey [“A Survey of Human-in-the-Loop for Machine Learning”](https://doi.org/10.1016/j.future.2022.05.014) was selected as an **Editor’s Choice Paper** by *Future Generation Computer Systems*.
