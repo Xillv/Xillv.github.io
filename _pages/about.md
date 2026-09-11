@@ -78,3 +78,7 @@ For my complete and up-to-date publication list, please visit my Google Scholar 
 ## Selected Talks
 
 - *2024.09*, [“AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception”](https://www.ntu.edu.sg/computing/news-events/events/detail/2024/09/16/default-calendar/seminar-by-mr-xiao-luwei-post-doc-ccds-16-sept-2024-cil-meeting-room-(n4-b1a-02)), Nanyang Technological University, Singapore.
+
+# 🌏 Visitors
+
+<script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=nCDbOQQpDu8XK9_q2Wz6-HfvrmZB0hFQ-wIIs2wjOT4"></script>
