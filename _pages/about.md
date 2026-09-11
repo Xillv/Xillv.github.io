@@ -82,27 +82,24 @@ For my complete and up-to-date publication list, please visit my Google Scholar 
 # 🌏 Visitors
 
 <div class="visitor-map-widget">
-  <a href="https://info.flagcounter.com/LLH5" target="_blank" rel="noopener noreferrer" aria-label="View detailed visitor statistics">
-    <img src="https://s01.flagcounter.com/map/LLH5/size_m/txt_4A5568/border_E2E8F0/pageviews_1/viewers_0/flags_0/" alt="World map showing visitor countries and pageviews" loading="lazy">
-  </a>
-  <p>Visitor countries and pageviews recorded since September 2026.</p>
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=0e1633&amp;w=a&amp;t=m&amp;d=aTs2G96jVg3OE7Fi4QsvOITD0NJ63gc2c6HSkUFpnW0&amp;co=0b4975&amp;ct=cdd4d9&amp;cmo=3acc3a&amp;cmn=ff5353"></script>
+  <noscript>The live visitor map requires JavaScript.</noscript>
 </div>
+<p class="visitor-map-note">Live visitor locations recorded since September 2026.</p>
 
 <style>
 .visitor-map-widget {
+  width: 100%;
+  max-width: 680px;
+  margin: 0 auto;
   padding: 0.75rem 0 1.25rem;
   text-align: center;
 }
 
-.visitor-map-widget img {
-  display: inline-block;
-  max-width: 100%;
-  height: auto;
-}
-
-.visitor-map-widget p {
-  margin: 0.65rem 0 0;
+.visitor-map-note {
+  margin: -0.5rem 0 1.25rem;
   color: #6b7280;
   font-size: 0.75rem;
+  text-align: center;
 }
 </style>
