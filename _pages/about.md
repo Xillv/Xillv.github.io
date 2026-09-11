@@ -27,7 +27,7 @@ I currently serve as an **Associate Editor** for [*IEEE Transactions on Affectiv
 
 For my complete and up-to-date publication list, please visit my Google Scholar profile{% if site.google_scholar_stats_enabled %} <a href="{{ site.author.googlescholar }}"><img src="https://img.shields.io/endpoint?url={{ gsStatsUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations" style="vertical-align: middle;"></a>{% endif %}.
 
-**Opportunities.** I am looking for self-motivated master’s and doctoral students interested in remote research internships, in collaboration with researchers at the National University of Singapore (NUS), Nanyang Technological University (NTU), and East China Normal University (ECNU). I also welcome collaborations with students and researchers on cutting-edge topics in large language models, multimodal data processing, and related areas, and remain open to opportunities in both academia and industry. If our research interests align, please feel free to contact me at [luwei@sentic.net](mailto:luwei@sentic.net).
+**Opportunities.** We are looking for self-motivated master’s and doctoral students interested in remote research internships, in collaboration with researchers at the National University of Singapore (NUS), Nanyang Technological University (NTU), and East China Normal University (ECNU). I also welcome collaborations with students and researchers on cutting-edge topics in large language models, multimodal data processing, and related areas, and remain open to opportunities in both academia and industry. If our research interests align, please feel free to contact me at [luwei@sentic.net](mailto:luwei@sentic.net).
 
 # 🔥 News
 
