@@ -81,21 +81,28 @@ For my complete and up-to-date publication list, please visit my Google Scholar 
 
 # 🌏 Visitors
 
-<div class="visitor-globe-widget">
-  <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=nCDbOQQpDu8XK9_q2Wz6-HfvrmZB0hFQ-wIIs2wjOT4&amp;w=300&amp;x=y"></script>
+<div class="visitor-map-widget">
+  <a href="https://info.flagcounter.com/LLH5" target="_blank" rel="noopener noreferrer" aria-label="View detailed visitor statistics">
+    <img src="https://s01.flagcounter.com/map/LLH5/size_m/txt_4A5568/border_E2E8F0/pageviews_1/viewers_0/flags_0/" alt="World map showing visitor countries and pageviews" loading="lazy">
+  </a>
+  <p>Visitor countries and pageviews recorded since September 2026.</p>
 </div>
 
 <style>
-.visitor-globe-widget {
-  min-height: 325px;
+.visitor-map-widget {
   padding: 0.75rem 0 1.25rem;
+  text-align: center;
 }
 
-.visitor-globe-widget .mmvst_outer {
-  margin: 0 auto !important;
+.visitor-map-widget img {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
 }
 
-.visitor-globe-widget .mmvst_inner {
-  display: block !important;
+.visitor-map-widget p {
+  margin: 0.65rem 0 0;
+  color: #6b7280;
+  font-size: 0.75rem;
 }
 </style>
