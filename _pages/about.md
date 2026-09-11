@@ -23,11 +23,11 @@ I am currently a **Research Fellow** at the [National University of Singapore](h
 
 My research interests include ***AI4Science***, ***Affective Computing***, ***Large Language Models***, ***Multimodal Interaction***, and ***Human-in-the-loop AI***. My current work explores cognitive and aesthetic causality in multimodal sentiment analysis, socially intelligent AI, and multimodal AI for weather and climate.
 
-I currently serve as an **Associate Editor** for [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta) (IF 11.3, CCF-B, SCI Q1) and [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board) (IF 9.1, CCF-B, SCI Q1), and as an **Early Career Editor** for [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board) (IF 17.4, CAAI-A, SCI Q1).
+I currently serve as an **Associate Editor** for [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta) (IF 11.3, CCF-B, SCI Q1) and [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition) (IF 9.1, CCF-B, SCI Q1), and as an **Early Career Editor** for [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion) (IF 17.4, CAAI-A, SCI Q1).
 
 For my complete and up-to-date publication list, please visit my Google Scholar profile{% if site.google_scholar_stats_enabled %} <a href="{{ site.author.googlescholar }}"><img src="https://img.shields.io/endpoint?url={{ gsStatsUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations" style="vertical-align: middle;"></a>{% endif %}.
 
-**Opportunities.** We are currently recruiting remote research interns at the undergraduate, master’s, and doctoral levels, in collaboration with researchers at the National University of Singapore (NUS), Nanyang Technological University (NTU) and East China Normal University  (ECNU). I am also open to opportunities in academia and industry, as well as potential research collaborations. If you are interested in joining our projects or discussing potential opportunities, please contact me at [luwei@sentic.net](mailto:luwei@sentic.net).
+**Opportunities.** I am looking for self-motivated master’s and doctoral students interested in remote research internships, in collaboration with researchers at the National University of Singapore (NUS), Nanyang Technological University (NTU), and East China Normal University (ECNU). I also welcome collaborations with students and researchers on cutting-edge topics in large language models, multimodal data processing, and related areas, and remain open to opportunities in both academia and industry. If our research interests align, please feel free to contact me at [luwei@sentic.net](mailto:luwei@sentic.net).
 
 # 🔥 News
 
@@ -59,7 +59,7 @@ For my complete and up-to-date publication list, please visit my Google Scholar 
 
 ## Editorial Service
 
-- **Associate Editor**, [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta).
+- **Associate Editor**, [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta/about/107327?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Affective%20Computing).
 - **Associate Editor**, [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board).
 - **Early Career Editor**, [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board).
 - **Guest Editor**, *Computers, Materials & Continua*, [Special Issue on “Large Language Models: Foundations, Advances, and Emerging Applications”](https://www.techscience.com/cmc/special_detail/large-language).
