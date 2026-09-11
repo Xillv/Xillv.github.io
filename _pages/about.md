@@ -81,4 +81,21 @@ For my complete and up-to-date publication list, please visit my Google Scholar 
 
 # 🌏 Visitors
 
-<script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=nCDbOQQpDu8XK9_q2Wz6-HfvrmZB0hFQ-wIIs2wjOT4"></script>
+<div class="visitor-globe-widget">
+  <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=nCDbOQQpDu8XK9_q2Wz6-HfvrmZB0hFQ-wIIs2wjOT4&amp;w=300&amp;x=y"></script>
+</div>
+
+<style>
+.visitor-globe-widget {
+  min-height: 325px;
+  padding: 0.75rem 0 1.25rem;
+}
+
+.visitor-globe-widget .mmvst_outer {
+  margin: 0 auto !important;
+}
+
+.visitor-globe-widget .mmvst_inner {
+  display: block !important;
+}
+</style>
