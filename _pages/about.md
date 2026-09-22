@@ -62,6 +62,7 @@ For my complete and up-to-date publication list, please visit my Google Scholar 
 - **Associate Editor**, [*IEEE Transactions on Affective Computing*](https://www.computer.org/csdl/journal/ta/about/107327?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Affective%20Computing).
 - **Associate Editor**, [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board).
 - **Early Career Editor**, [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board).
+- **Lead Guest Editor**, [Special Issue on “AEGIS: Affective Experience-centered GenAI for Social Good”](https://www.computer.org/digital-library/journals/ta/tac-centered-gen-ai-good), *IEEE Transactions on Affective Computing*.
 - **Guest Editor**, *Computers, Materials & Continua*, [Special Issue on “Large Language Models: Foundations, Advances, and Emerging Applications”](https://www.techscience.com/cmc/special_detail/large-language).
 
 ## Conference Service
