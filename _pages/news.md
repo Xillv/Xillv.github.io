@@ -1,4 +1,5 @@
 
+- *2026.10*: 🎉 Two papers were accepted by **Pattern Recognition** and **Information Fusion**.
 - *2026.08*: 🧭 Serving as an **Area Chair** for [XAI4Science](https://xai4science.github.io/), a NeurIPS 2026 Workshop on interpretable foundation models for science.
 - *2026.08*: 🎉 Our work on metacognitive probing for defending customized LLM systems was published in **IEEE TIFS**.
 - *2026.07*: 🎉 One paper was accepted to **ACM Multimedia 2026**.
