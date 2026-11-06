@@ -13,6 +13,8 @@ url                      : "https://xillv.github.io"
 baseurl                  : ""
 google_scholar_stats_enabled : true
 google_scholar_stats_use_cdn : true
+# Ask supporting search engines not to index the site's HTML pages.
+search_engine_indexing   : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
